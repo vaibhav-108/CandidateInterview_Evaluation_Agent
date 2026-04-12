@@ -1,0 +1,12 @@
+autogen-agentchat
+autogen-core
+autogen-ext
+python-dotenv
+openai
+tiktoken
+pydantic
+fastapi
+uvicorn
+websockets
+jinja2
+aiofiles

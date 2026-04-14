@@ -6,8 +6,9 @@ python-dotenv
 openai
 tiktoken
 pydantic
-fastapi
+fastapi ==0.115.12
 uvicorn
 websockets
 jinja2
 aiofiles
+starlette==0.46.2
